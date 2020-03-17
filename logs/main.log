@@ -1,0 +1,1 @@
+2020-03-17.10:28:51 INFO  [main] com.soft1851.spring.ioc.app.StudentTest.main:19  Student{id=1, phone=Phone{brand='小米', price=1999.0}, hobbies=[学习, 睡觉]}
