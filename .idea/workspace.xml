@@ -7,30 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b31cf7a-d5cc-44b6-8e04-94a77db34c60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/web_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/app/JDBCTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/app/LSMTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/app/PhoneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/config/JDBCConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main/java/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ioc/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/app/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/app/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/dao/impl/ForumDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/dao/impl/ForumDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/src/main/resources/beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/src/test/java/com/soft1851/spring/ioc/dao/impl/ForumDaoImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/src/test/java/com/soft1851/spring/ioc/dao/impl/ForumDaoImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/target/classes/beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/app/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/app/StudentTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/config/AppConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/dao/impl/ForumDaoImpl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/dao/impl/ForumDaoImpl$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/dao/impl/ForumDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/dao/impl/ForumDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/test-classes/com/soft1851/spring/ioc/dao/impl/ForumDaoImplTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/target/test-classes/com/soft1851/spring/ioc/dao/impl/ForumDaoImplTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/java/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/web/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +112,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="D:/ProgramFiles/Git/cmd/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -151,6 +135,9 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev\SpringStudy\spring-learning" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -164,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LSMTest">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.272">
     <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.ioc.app.BookTest" />
       <module name="ioc" />
@@ -315,8 +302,8 @@
       <list>
         <item itemvalue="Application.LSMTest" />
         <item itemvalue="Application.StudentTest" />
-        <item itemvalue="Application.BookTest" />
         <item itemvalue="Application.PhoneTest" />
+        <item itemvalue="Application.BookTest" />
         <item itemvalue="Application.JDBCTest" />
       </list>
     </recent_temporary>
@@ -352,7 +339,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584407117274</updated>
       <workItem from="1584407118599" duration="21160000" />
-      <workItem from="1584577008824" duration="14428000" />
+      <workItem from="1584577008824" duration="16523000" />
     </task>
     <servers />
   </component>
