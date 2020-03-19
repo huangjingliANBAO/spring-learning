@@ -12,6 +12,7 @@
         <module>ioc</module>
         <module>aop</module>
         <module>orm</module>
+        <module>web</module>
     </modules>
 
     <properties>
